@@ -1,1 +1,1 @@
-# Assignment-Prog-POE-Part-3.In these part of the assignment i added the message manager Java, so that the messages from the previos part can be stored,deleted and viewed by the user.They can search their previous messsage history and reciepents numbers.
+# Assignment-Prog-POE-Part-3.In these part of the assignment i added the message manager Java, so that the messages from the previous part can be stored,deleted and viewed by the user.They can search their previous messsage history and reciepents numbers.
